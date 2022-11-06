@@ -1,0 +1,13 @@
+1)	Need to adjust Use Case diagram slightly based on overview	(Kieran)
+
+2)	Need to possibly update our use-case-in-detail based on the overview (All)
+
+3)	Need to create Glossary.  Describe the staff portal vs parent portal.  Describe a designated guardian. etc.
+
+4)	Conceptual Class diagram looks to be close to completely finished.  Need to do an account for Staff too.  (Finola)
+
+5)	System Sequence Diagram looks okay, needs to be double checked (Aidan)
+
+6) 	Contracts.  We need to do one each. (All)
+
+7)	[TODO]each team member should create a communication diagram based on the contract developed in task 6 (All)

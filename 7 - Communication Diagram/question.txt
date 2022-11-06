@@ -1,0 +1,1 @@
+7. Using appropriate design patterns, each team member should create a communication diagram based on the contract developed in task 6. (5 marks)

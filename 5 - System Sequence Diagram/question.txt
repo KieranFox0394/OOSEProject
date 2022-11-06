@@ -1,0 +1,1 @@
+5. Draw a system sequence diagram from the conceptual class diagram. (7.5 marks)

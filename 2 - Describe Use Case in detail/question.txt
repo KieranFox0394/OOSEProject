@@ -1,0 +1,2 @@
+2. Each team member should select one distinct use case from the use case model and describe it in detail. The use case must contain an alternate flow or exceptional flow.. (5 marks)
+

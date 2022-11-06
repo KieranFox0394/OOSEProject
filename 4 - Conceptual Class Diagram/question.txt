@@ -1,0 +1,1 @@
+4. Create a conceptual class diagram modelling the architecture of the proposed system. The conceptual class diagram should demonstrate the use of three or more of the following: attributes, relationships, navigability, association, multiplicity and composition. (7.5 marks)

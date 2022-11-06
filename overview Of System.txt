@@ -1,0 +1,37 @@
+Creche System
+
+Parent can:
+Log in to the parent portal.  They can create an account if one doesn't already exist
+Create a create an account and apply to creche for their child/children.  
+They can register a child and they can add the child to the waiting list.
+Once the child is accepted from the waiting list they can pay the fees associated to the child/children.
+They can check a history of all thier payments to the creche.
+They can create up to 2 designated guardians that are also allowed to drop and collect the child to the creche.
+
+
+Minder, Admin and Owner are all staff.
+
+All Staff can: 
+Log in to the staff portal.
+Log their attendance on the creche management system.
+
+Admin and Owner can:
+Can create an account for Staff.
+Manage the Staff Rota for Minders.  This means they can mark minders as rostered or not rostered on certain days.  They will see any days in which the Minder has requested to be unavailable.  
+They can view the amount of minders that are confirmed as due to work on upcoming days.  
+They can see a daily, weekly and monthly view of the amount of minders due to attend on certain days.  
+They can manage the staff payroll. This will create a payment to minders and admin based on their rate of pay and their attendance.
+They can accept children from the waiting list.
+
+Minder can:
+Check a child in to mark attendance.  They can also mark a check out time in case child was collected earlier than finish time.
+Get patent details in order to communicate with parents.  This includes any associated designated guardians.
+Check the rota to see their upcoming hours to be worked.  
+Check their previous payroll to see previous payments.
+Request certain days to be marked as unavailable to work.
+
+Owner can:
+Update the rate of pay for Admin and Minders.
+Adjust the contract end date for any Staff.
+Adjust fee status and fee amount for any child.
+
